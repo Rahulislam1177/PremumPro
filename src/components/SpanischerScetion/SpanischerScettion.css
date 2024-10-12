@@ -1,0 +1,9 @@
+
+
+
+.team-card:hover .social-icons {
+    left: 85%;
+    top: 25px;
+    visibility: visible;
+}
+
